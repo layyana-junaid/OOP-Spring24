@@ -1,3 +1,9 @@
+/*
+ *Programmer: Layyana Junaid (23k0056)
+ *Date: 20th Feb 2024
+ *Description: Writing a program to make a book class and replacing the modifying certain features from task 1
+
+
 #include <iostream>
 #include <string>
 
