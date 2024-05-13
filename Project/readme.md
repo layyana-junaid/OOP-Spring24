@@ -15,10 +15,10 @@ https://github.com/layyana-junaid/OOP-Spring24/assets/142867946/b4f0b011-79b3-4b
 https://github.com/layyana-junaid/OOP-Spring24/assets/142867946/61e2b611-f27d-4b36-acef-b722a3557556
 
 ### Basically the main.cpp file is where the execution of the entire game takes place:
-1-#include "src/game.hpp" tells the compiler to include the declarations (interfaces) from the game.hpp file. 
+#### 1-#include "src/game.hpp" tells the compiler to include the declarations (interfaces) from the game.hpp file. 
 (This file likely contains the class definition for Game.)
-2-Game game; creates an object named game of type Game. This object represents the game itself and the logic and data needed to run the game.
-3-game.run(); line calls the run() method of the Game object. This method contains the game's main loop where events are processed, 
+#### 2-Game game; creates an object named game of type Game. This object represents the game itself and the logic and data needed to run the game.
+#### 3-game.run(); line calls the run() method of the Game object. This method contains the game's main loop where events are processed, 
 the game state is updated, and graphics are rendered.
 
 ## Demonstration of the project: 
